@@ -9,11 +9,6 @@ int fact(int n)
         return 1;
     }
 
-    // int fact = n * count(n - 1);
-    // // count(n - 1);
-    // // return fact;
-    // // count(n - 1);
-    // cout << fact << endl;
     return n * fact(n - 1);
 }
 

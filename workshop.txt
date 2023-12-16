@@ -1,0 +1,33 @@
+Please make a separate File for C++ workshop. List of experiment of computer workshop:-
+
+1) Write a C++ program to print helloworld.
+
+2) Write  C++ program to demonstrate controle statement.
+-> If else, switch & ternary operator.
+
+3) Write a C++ porgram to dmonstrate various looping statment.
+-> or, while & do while.
+
+4) Write a C++ program to demonstrate various function.
+
+5) Write a# C++ program to demonstrate single dimentional arrays.
+
+6)Write a C++ program to explain arithmetic operators.
+
+7) Write a C++ program to explain logical operator.
+
+8) Write a C++ program to explain pointers.
+
+9) Write a C++ program to explain class and object.
+
+10) Write a C++ program to explain single inheritance.
+
+11) Write a C++ program to explain function overloading.
+
+12) Write a C++ program to explain friend function.
+
+13) Write a C++ program to explain virtual function.
+
+14) Write a C++ program to implement interface.
+
+15) Write a C++ program to explain constructor overloading.

@@ -175,8 +175,6 @@ int main()
     //     //     cout << arr << " is not a palindrome" << endl;
     //     // }
 
-   
-
     while (!isEmpty(s) || !isEmpty(s1))
     {
         push(s2, pop(s));

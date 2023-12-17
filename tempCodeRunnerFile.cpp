@@ -1,4 +1,3 @@
- push(s, 7);
-    push(s, 8);
-    push(s, 9);
-   
+ push(s, 3);
+    push(s, 4);
+    pop(s);
